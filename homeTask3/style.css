@@ -1,0 +1,122 @@
+*{
+margin: 0;
+font-family: 'League Spartan', sans-serif;
+font-style: normal;
+}
+
+.conteiner{
+max-width: 1440px;
+display: flex;
+}
+
+.header-link{
+padding: 104px 0 0 133px;
+}
+
+.header-link h6{
+font-size: 24px;
+font-weight: 300;
+}
+
+.header-link h1{
+margin: 53px 0 ;
+font-size: 250px;
+font-weight: 300;
+}
+
+.header-link pre{
+font-size: 32px;
+font-weight: 300;
+line-height: 50px;
+letter-spacing: 0em;
+}
+.buy{
+    display: flex;
+}
+.buyWatch{
+height: 82px;
+width: 278px;
+background: #161515;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.buyWatch a{
+font-size: 32px;
+color: white;
+text-decoration: none;
+}
+.price{
+height: 82px;
+width: 143px;
+background-color: #fff;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.price p{
+font-size: 32px;
+}
+.header-img{
+
+}
+main{
+text-align: center;
+}
+.popular{
+font-size: 24px;
+margin-top: 43px;
+text-align: center;
+}
+.models{
+font-size: 72px;
+font-weight: 400px;
+line-height: 81px;
+}
+.watch2{
+height: 630px;
+width: 417px;
+background: #F8F8F8;
+margin: 84px auto 67px;
+}
+.watch2 img{
+height: 410px;
+width: 286px;
+padding: 110px 65px;
+}
+.son22 h3{
+font-weight: 400;
+font-size: 32px;
+line-height: 29px;
+}
+.son22 pre{
+font-weight: 300;
+font-size: 32px;
+line-height: 50px;
+}
+.watch3{
+height: 630px;
+width: 500px;
+background: #F8F8F8;
+margin: 85px auto 67px;
+}
+.watch3 img{
+height: 500px;
+width: 500px;
+padding: 65px 0;
+}
+.line4 h3{
+font-size: 32px;
+font-weight: 400;
+line-height: 60px;
+}
+.finish{
+margin: 49px auto 142px;
+font-size: 24px;
+font-weight: 300;
+line-height: 41px;
+}
+.finish a{
+color: #BB8B5D;
+text-decoration: none;
+}
